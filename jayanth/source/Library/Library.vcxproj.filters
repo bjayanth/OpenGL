@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Content">
+      <UniqueIdentifier>{ef6922c1-4ff2-466d-8027-79cdfcb3f1a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\Effects">
+      <UniqueIdentifier>{1833534e-6989-434a-b6ae-25fa042847f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cameras">
+      <UniqueIdentifier>{888bb940-3b32-4a97-af96-1a3da15a7ffa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lights">
+      <UniqueIdentifier>{8c02a8c7-e197-460f-8145-1aac4f0d9db5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{64ce7aad-d934-4ba4-84c9-bd02c42b7c98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{38557350-ec34-479d-a736-63bfd5ca3e97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShaderPrograms">
+      <UniqueIdentifier>{91a87c91-f9db-4e2f-86d9-3a0d4c797bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Content\Models">
+      <UniqueIdentifier>{9d825483-eb6e-49b4-a0d3-bdc71a414427}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameClock.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameComponent.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTime.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="RTTI.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="ServiceContainer.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawableGameComponent.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Cameras</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorHelper.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexDeclarations.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorHelper.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstPersonCamera.h">
+      <Filter>Cameras</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelMaterial.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLight.h">
+      <Filter>Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectionalLight.h">
+      <Filter>Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="ProxyModel.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixHelper.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicEffect.h">
+      <Filter>ShaderPrograms</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyboxEffect.h">
+      <Filter>ShaderPrograms</Filter>
+    </ClInclude>
+    <ClInclude Include="Variable.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="GameException.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="ShaderProgram.h">
+      <Filter>ShaderPrograms</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Cameras</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstPersonCamera.cpp">
+      <Filter>Cameras</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectionalLight.cpp">
+      <Filter>Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLight.cpp">
+      <Filter>Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="SpotLight.cpp">
+      <Filter>Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorHelper.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawableGameComponent.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameClock.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameComponent.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameException.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTime.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="gl3w.c">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixHelper.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="ProxyModel.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="ServiceContainer.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Skybox.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Variable.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorHelper.cpp">
+      <Filter>Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelMaterial.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyboxEffect.cpp">
+      <Filter>ShaderPrograms</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderProgram.cpp">
+      <Filter>ShaderPrograms</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicEffect.cpp">
+      <Filter>ShaderPrograms</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="content\Effects\BasicEffect.vert">
+      <Filter>Content\Effects</Filter>
+    </None>
+    <None Include="content\Effects\BasicEffect.frag">
+      <Filter>Content\Effects</Filter>
+    </None>
+    <None Include="content\Effects\Skybox.vert">
+      <Filter>Content\Effects</Filter>
+    </None>
+    <None Include="content\Effects\Skybox.frag">
+      <Filter>Content\Effects</Filter>
+    </None>
+    <None Include="packages.config" />
+    <None Include="GameComponent.inl">
+      <Filter>Misc</Filter>
+    </None>
+    <None Include="DrawableGameComponent.inl">
+      <Filter>Misc</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="content\Models\Sphere.obj">
+      <Filter>Content\Models</Filter>
+    </Object>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.pdb
+*.lib
+*.so
+*.a
+*.grbg
+*.ipch

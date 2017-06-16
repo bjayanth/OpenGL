@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\First_Triangle\obj\Debug\) contains files shared from another project (Lesson1_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  A subdirectory or file C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\First_Triangle\bin\Debug\Content already exists.
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\BasicEffect.frag
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\BasicEffect.vert
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\Skybox.frag
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\Skybox.vert
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Models\Sphere.mtl
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Models\Sphere.obj
+  6 File(s) copied
+  pch.cpp
+  Program.cpp
+  First_Triangle.vcxproj -> C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\First_Triangle\bin\Debug\First_Triangle.exe
+  First_Triangle.vcxproj -> C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\First_Triangle\bin\Debug\First_Triangle.pdb (Full PDB)

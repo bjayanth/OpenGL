@@ -1,0 +1,41 @@
+﻿  pch.cpp
+  VectorHelper.cpp
+  Variable.cpp
+  Utility.cpp
+  SpotLight.cpp
+  SkyboxEffect.cpp
+  Skybox.cpp
+  ShaderProgram.cpp
+  ServiceContainer.cpp
+  ProxyModel.cpp
+  PointLight.cpp
+  ModelMaterial.cpp
+  Model.cpp
+  Mesh.cpp
+  MatrixHelper.cpp
+  Light.cpp
+  Grid.cpp
+  GameTime.cpp
+  GameException.cpp
+  GameComponent.cpp
+  GameClock.cpp
+  Generating Code...
+  Compiling...
+  Game.cpp
+  FirstPersonCamera.cpp
+  DrawableGameComponent.cpp
+  DirectionalLight.cpp
+  ColorHelper.cpp
+  Camera.cpp
+  BasicEffect.cpp
+  Generating Code...
+  gl3w.c
+  Library.vcxproj -> C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Library\bin\Debug\Libraryd.lib
+  A subdirectory or file C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\ already exists.
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Library\Content\Effects\BasicEffect.frag
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Library\Content\Effects\BasicEffect.vert
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Library\Content\Effects\Skybox.frag
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Library\Content\Effects\Skybox.vert
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Library\Content\Models\Sphere.mtl
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Library\Content\Models\Sphere.obj
+  6 File(s) copied

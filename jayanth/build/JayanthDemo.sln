@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Library", "..\source\Library\Library.vcxproj", "{0337C844-51FF-43E8-A9CE-2B11B9AC5DF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "First_Triangle", "..\source\First_Triangle\First_Triangle.vcxproj", "{39B9344A-2312-4D9F-9702-072C9F80B977}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0337C844-51FF-43E8-A9CE-2B11B9AC5DF6} = {0337C844-51FF-43E8-A9CE-2B11B9AC5DF6}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Color_Moving_Triangle", "..\source\Color_Moving_Triangle\Color_Moving_Triangle.vcxproj", "{C7EF37D7-F419-40E0-A122-F20F3335A3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0337C844-51FF-43E8-A9CE-2B11B9AC5DF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0337C844-51FF-43E8-A9CE-2B11B9AC5DF6}.Debug|Win32.Build.0 = Debug|Win32
+		{0337C844-51FF-43E8-A9CE-2B11B9AC5DF6}.Release|Win32.ActiveCfg = Release|Win32
+		{0337C844-51FF-43E8-A9CE-2B11B9AC5DF6}.Release|Win32.Build.0 = Release|Win32
+		{39B9344A-2312-4D9F-9702-072C9F80B977}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39B9344A-2312-4D9F-9702-072C9F80B977}.Debug|Win32.Build.0 = Debug|Win32
+		{39B9344A-2312-4D9F-9702-072C9F80B977}.Release|Win32.ActiveCfg = Release|Win32
+		{39B9344A-2312-4D9F-9702-072C9F80B977}.Release|Win32.Build.0 = Release|Win32
+		{C7EF37D7-F419-40E0-A122-F20F3335A3DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7EF37D7-F419-40E0-A122-F20F3335A3DB}.Debug|Win32.Build.0 = Debug|Win32
+		{C7EF37D7-F419-40E0-A122-F20F3335A3DB}.Release|Win32.ActiveCfg = Release|Win32
+		{C7EF37D7-F419-40E0-A122-F20F3335A3DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
