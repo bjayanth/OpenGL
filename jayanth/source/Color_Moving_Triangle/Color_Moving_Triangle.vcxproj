@@ -149,6 +149,8 @@ IF EXIST "$(ProjectDir)content" xcopy /E /Y "$(ProjectDir)Content" "$(OutDir)Con
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="tri.frag" />
+    <None Include="tri.vert" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Library\Library.vcxproj">

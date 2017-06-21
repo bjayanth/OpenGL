@@ -12,6 +12,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "First_Triangle", "..\source
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Color_Moving_Triangle", "..\source\Color_Moving_Triangle\Color_Moving_Triangle.vcxproj", "{C7EF37D7-F419-40E0-A122-F20F3335A3DB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Texture", "..\source\Texture\Texture.vcxproj", "{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -30,6 +32,10 @@ Global
 		{C7EF37D7-F419-40E0-A122-F20F3335A3DB}.Debug|Win32.Build.0 = Debug|Win32
 		{C7EF37D7-F419-40E0-A122-F20F3335A3DB}.Release|Win32.ActiveCfg = Release|Win32
 		{C7EF37D7-F419-40E0-A122-F20F3335A3DB}.Release|Win32.Build.0 = Release|Win32
+		{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}.Debug|Win32.Build.0 = Debug|Win32
+		{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}.Release|Win32.ActiveCfg = Release|Win32
+		{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
