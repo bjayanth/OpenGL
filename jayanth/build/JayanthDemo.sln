@@ -14,6 +14,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Color_Moving_Triangle", "..
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Texture", "..\source\Texture\Texture.vcxproj", "{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cube", "..\source\Cube\Cube.vcxproj", "{65F318BA-55AA-4CF7-A2F9-FB8268B62299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -36,6 +38,10 @@ Global
 		{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}.Debug|Win32.Build.0 = Debug|Win32
 		{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}.Release|Win32.ActiveCfg = Release|Win32
 		{C18C194D-5DE9-4A75-A4E3-5563A5C909A5}.Release|Win32.Build.0 = Release|Win32
+		{65F318BA-55AA-4CF7-A2F9-FB8268B62299}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65F318BA-55AA-4CF7-A2F9-FB8268B62299}.Debug|Win32.Build.0 = Debug|Win32
+		{65F318BA-55AA-4CF7-A2F9-FB8268B62299}.Release|Win32.ActiveCfg = Release|Win32
+		{65F318BA-55AA-4CF7-A2F9-FB8268B62299}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

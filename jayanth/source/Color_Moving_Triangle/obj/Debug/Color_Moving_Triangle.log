@@ -1,5 +1,4 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Color_Moving_Triangle\obj\Debug\) contains files shared from another project (First_Triangle.vcxproj, Lesson1_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  A subdirectory or file C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Color_Moving_Triangle\bin\Debug\Content already exists.
+﻿  A subdirectory or file C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Color_Moving_Triangle\bin\Debug\Content already exists.
   C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\BasicEffect.frag
   C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\BasicEffect.vert
   C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\Skybox.frag
@@ -8,5 +7,7 @@
   C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Models\Sphere.obj
   C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Textures\wall.jpg
   7 File(s) copied
+  Program.cpp
+Program.cpp(32): warning C4100: 'window': unreferenced formal parameter
   Color_Moving_Triangle.vcxproj -> C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Color_Moving_Triangle\bin\Debug\Color_Moving_Triangle.exe
   Color_Moving_Triangle.vcxproj -> C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Color_Moving_Triangle\bin\Debug\Color_Moving_Triangle.pdb (Full PDB)
