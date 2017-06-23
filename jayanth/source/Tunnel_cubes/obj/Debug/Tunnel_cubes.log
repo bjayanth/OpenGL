@@ -1,0 +1,16 @@
+﻿  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\BasicEffect.frag
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\BasicEffect.vert
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\Skybox.frag
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Effects\Skybox.vert
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Models\Sphere.mtl
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Models\Sphere.obj
+  C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\build\..\content\Textures\wall.jpg
+  7 File(s) copied
+  pch.cpp
+  Program.cpp
+Program.cpp(88): warning C4100: 'window': unreferenced formal parameter
+Program.cpp(243): warning C4459: declaration of 'program' hides global declaration
+  Program.cpp(8): note: see declaration of 'program'
+SOILd.lib(stb_image_aug.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Tunnel_cubes.vcxproj -> C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Tunnel_cubes\bin\Debug\Tunnel_cubes.exe
+  Tunnel_cubes.vcxproj -> C:\Users\jayabapu\Desktop\Repository\jayanth\bootcamp\jayanth\source\Tunnel_cubes\bin\Debug\Tunnel_cubes.pdb (Full PDB)

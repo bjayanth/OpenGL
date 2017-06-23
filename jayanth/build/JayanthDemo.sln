@@ -16,6 +16,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Texture", "..\source\Textur
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cube", "..\source\Cube\Cube.vcxproj", "{65F318BA-55AA-4CF7-A2F9-FB8268B62299}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tunnel_cubes", "..\source\Tunnel_cubes\Tunnel_cubes.vcxproj", "{EB8C2F2F-8AAD-49F2-AF96-D39BBE081C14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lighting", "..\source\Lighting\Lighting.vcxproj", "{BA5A2936-4557-420C-B20E-A49DEDB70713}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -42,6 +46,14 @@ Global
 		{65F318BA-55AA-4CF7-A2F9-FB8268B62299}.Debug|Win32.Build.0 = Debug|Win32
 		{65F318BA-55AA-4CF7-A2F9-FB8268B62299}.Release|Win32.ActiveCfg = Release|Win32
 		{65F318BA-55AA-4CF7-A2F9-FB8268B62299}.Release|Win32.Build.0 = Release|Win32
+		{EB8C2F2F-8AAD-49F2-AF96-D39BBE081C14}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB8C2F2F-8AAD-49F2-AF96-D39BBE081C14}.Debug|Win32.Build.0 = Debug|Win32
+		{EB8C2F2F-8AAD-49F2-AF96-D39BBE081C14}.Release|Win32.ActiveCfg = Release|Win32
+		{EB8C2F2F-8AAD-49F2-AF96-D39BBE081C14}.Release|Win32.Build.0 = Release|Win32
+		{BA5A2936-4557-420C-B20E-A49DEDB70713}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA5A2936-4557-420C-B20E-A49DEDB70713}.Debug|Win32.Build.0 = Debug|Win32
+		{BA5A2936-4557-420C-B20E-A49DEDB70713}.Release|Win32.ActiveCfg = Release|Win32
+		{BA5A2936-4557-420C-B20E-A49DEDB70713}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
